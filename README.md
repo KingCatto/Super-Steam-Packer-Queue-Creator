@@ -1,4 +1,5 @@
 # Super-Steam-Packer-Queue-Creator
+AI GENERATED SCRIPT DONE BY CLAUDE.AI
 
 A Python script for creating Steam Super Packer queues with platform filtering, Denuvo detection, and multi-language support.
 
