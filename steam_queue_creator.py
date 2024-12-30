@@ -163,7 +163,7 @@ class SteamGameProcessor:
                 app_data = data['data']
                 platforms = app_data.get('platforms', {})
                 is_free = app_data.get('is_free', False)
-                has_denuvo = 'drm_notice' in app_data and 'Denuvo Anti-tamper' in app_data['drm_notice']
+                has_denuvo = ( 'drm_notice' in app_data and re.search(r'Denuvo Anti-?tamper', app_data['drm_notice']))
                 
                 if self.settings['operation']['verbose_logging']:
                     self._log(f"Game: {app_data.get('name')} | Free: {is_free} | Denuvo: {has_denuvo}")
