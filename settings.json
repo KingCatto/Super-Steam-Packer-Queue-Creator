@@ -14,7 +14,7 @@
         "test_limit": 5,
         "verbose_logging": false,
         "enable_logging": true,
-        "display_language": "english"
+        "display_language": "english", 
         "filter_denuvo": true
     },
     "files": {
