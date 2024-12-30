@@ -5,7 +5,7 @@
     },
     "platforms": {
         "windows": true,
-        "mac": false,
+        "mac": true,
         "linux": true
     },
     "operation": {
@@ -14,7 +14,7 @@
         "test_limit": 5,
         "verbose_logging": false,
         "enable_logging": true,
-        "display_language": "english", 
+        "display_language": "english",
         "filter_denuvo": true
     },
     "files": {
@@ -25,7 +25,13 @@
         "log_file": "log.txt"
     },
     "api": {
-        "rate_limit": 2.0,
+        "rate_limit": 2.5,
         "timeout": 10
+    },
+    "drm": {
+        "denuvo_strings": [
+            "Denuvo Anti-tamper",
+            "Denuvo Antitamper"
+        ]
     }
 }
