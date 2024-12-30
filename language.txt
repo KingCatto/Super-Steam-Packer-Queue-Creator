@@ -1,0 +1,82 @@
+# Language Configuration File
+# Format: language_code|key|value
+
+english|header_title|SUPER STEAM PACKER QUEUE CREATOR
+english|platforms_title|TARGET PLATFORMS
+english|start_processing|Starting Steam game processing...
+english|fetching_software|Fetching software list...
+english|fetching_games|Fetching games list...
+english|found_games|Found {} games in Steam library
+english|processing_ready|Ready to process {} games...
+english|estimated_time|Estimated completion time: {} (HH:MM:SS)
+english|press_enter|Press Enter to start processing (This will take some time)
+english|test_mode_limit|Test mode: Reached limit of {} games
+english|progress|Progress: {:.1f}% | Time remaining: {} | Games: {}/{} | Denuvo: {}
+english|created_queue|Created queue with {} entries
+english|skipped_denuvo|Skipped {} games with Denuvo
+english|no_games|No valid games found for queue
+english|error|Error: {}
+
+french|header_title|CRÉATEUR DE FILE D'ATTENTE SUPER STEAM PACKER
+french|platforms_title|PLATEFORMES CIBLES
+french|start_processing|Démarrage du traitement des jeux Steam...
+french|fetching_software|Récupération de la liste des logiciels...
+french|fetching_games|Récupération de la liste des jeux...
+french|found_games|{} jeux trouvés dans la bibliothèque Steam
+french|processing_ready|Prêt à traiter {} jeux...
+french|estimated_time|Temps estimé : {} (HH:MM:SS)
+french|press_enter|Appuyez sur Entrée pour commencer (Cela prendra du temps)
+french|test_mode_limit|Mode test : Limite de {} jeux atteinte
+french|progress|Progressión : {:.1f}% | Temps restant : {} | Jeux : {}/{} | Denuvo : {}
+french|created_queue|File d'attente créée avec {} entrées
+french|skipped_denuvo|{} jeux avec Denuvo ignorés
+french|no_games|Aucun jeu valide trouvé pour la file d'attente
+french|error|Erreur : {}
+
+german|header_title|SUPER STEAM PACKER WARTESCHLANGEN-ERSTELLER
+german|platforms_title|ZIELPLATTFORMEN
+german|start_processing|Starte Steam-Spieleverarbeitung...
+german|fetching_software|Rufe Softwareliste ab...
+german|fetching_games|Rufe Spieleliste ab...
+german|found_games|{} Spiele in der Steam-Bibliothek gefunden
+german|processing_ready|Bereit zum Verarbeiten von {} Spielen...
+german|estimated_time|Geschätzte Zeit: {} (HH:MM:SS)
+german|press_enter|Drücken Sie Enter zum Starten (Dies wird einige Zeit dauern)
+german|test_mode_limit|Testmodus: Limit von {} Spielen erreicht
+german|progress|Fortschritt: {:.1f}% | Verbleibende Zeit: {} | Spiele: {}/{} | Denuvo: {}
+german|created_queue|Warteschlange mit {} Einträgen erstellt
+german|skipped_denuvo|{} Spiele mit Denuvo übersprungen
+german|no_games|Keine gültigen Spiele für die Warteschlange gefunden
+german|error|Fehler: {}
+
+pirate|header_title|YE OLDE STEAM BOOTY QUEUE MAKER
+pirate|platforms_title|SAILING PLATFORMS
+pirate|start_processing|Weighin' anchor on Steam game processing...
+pirate|fetching_software|Searchin' the seven seas fer software...
+pirate|fetching_games|Scoutin' fer games in the hold...
+pirate|found_games|Found {} pieces o' gaming booty in yer Steam chest
+pirate|processing_ready|Ready to process {} treasures...
+pirate|estimated_time|Estimated sailing time: {} (HH:MM:SS)
+pirate|press_enter|Press Enter ye scurvy dog (This be a long voyage)
+pirate|test_mode_limit|Test mode: Hit the limit of {} pieces of eight
+pirate|progress|Sailing progress: {:.1f}% | Time till port: {} | Booty: {}/{} | Denuvo Curses: {}
+pirate|created_queue|Created a treasure map with {} marks
+pirate|skipped_denuvo|Avoided {} cursed Denuvo games
+pirate|no_games|No treasure found in these waters
+pirate|error|Blimey! Error: {}
+
+spanish|header_title|CREADOR DE COLA SUPER STEAM PACKER
+spanish|platforms_title|PLATAFORMAS OBJETIVO
+spanish|start_processing|Iniciando procesamiento de juegos Steam...
+spanish|fetching_software|Obteniendo lista de software...
+spanish|fetching_games|Obteniendo lista de juegos...
+spanish|found_games|Encontrados {} juegos en la biblioteca de Steam
+spanish|processing_ready|Listo para procesar {} juegos...
+spanish|estimated_time|Tiempo estimado: {} (HH:MM:SS)
+spanish|press_enter|Presione Enter para comenzar (Esto tomará tiempo)
+spanish|test_mode_limit|Modo prueba: Alcanzado límite de {} juegos
+spanish|progress|Progreso: {:.1f}% | Tiempo restante: {} | Juegos: {}/{} | Denuvo: {}
+spanish|created_queue|Cola creada con {} entradas
+spanish|skipped_denuvo|{} juegos con Denuvo omitidos
+spanish|no_games|No se encontraron juegos válidos para la cola
+spanish|error|Error: {}

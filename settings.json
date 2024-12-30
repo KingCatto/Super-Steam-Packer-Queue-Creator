@@ -1,0 +1,30 @@
+{
+    "steam": {
+        "steam_id": "YOUR_STEAM_ID_HERE",
+        "api_key": "YOUR_API_KEY_HERE"
+    },
+    "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+    },
+    "operation": {
+        "queue_from_file": false,
+        "test_mode": true,
+        "test_limit": 5,
+        "verbose_logging": false,
+        "enable_logging": true,
+        "display_language": "english"
+    },
+    "files": {
+        "input_file": "queue.txt",
+        "software_file": "software.txt",
+        "games_file": "games.txt",
+        "queue_file": "gamelistqueue.SSPQ",
+        "log_file": "log.txt"
+    },
+    "api": {
+        "rate_limit": 2.0,
+        "timeout": 10
+    }
+}
