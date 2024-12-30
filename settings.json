@@ -15,6 +15,7 @@
         "verbose_logging": false,
         "enable_logging": true,
         "display_language": "english"
+        "filter_denuvo": true
     },
     "files": {
         "input_file": "queue.txt",
