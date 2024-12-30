@@ -164,9 +164,9 @@ Feel free to:
 
 ## License
 
-This script is provided as-is for the Steam community. Use at your own discretion.
+This script is provided as-is for the CS.rin.ru community. Use at your own discretion.
 
 ## Acknowledgments
 
 - Thanks to Steam for providing the API
-- Language translations contributed by the community
+- Thamks to Masquerade for making Super Steam Packer
