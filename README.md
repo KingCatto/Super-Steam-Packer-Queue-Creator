@@ -19,6 +19,7 @@ A Python script to create Steam Super Packer queues with platform filtering, Den
 - requests library (`pip install requests`)
 - Steam account with custom URL
 - Steam Web API key
+- Super Steam Packer
 
 ## Setup
 
