@@ -142,6 +142,7 @@ pip install requests
 4. Rate limiting issues:
    - Adjust rate_limit in settings.json
    - Default is 2.0 seconds between requests
+5. If you still need help. Join this discord https://discord.gg/ByCS43XMve 
 
 ## License
 
